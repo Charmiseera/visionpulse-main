@@ -1,0 +1,14 @@
+streamlit
+ultralytics
+opencv-python
+deepface
+psycopg2
+fastapi
+uvicorn
+python-multipart
+pandas
+Pillow
+requests
+gdown
+reportlab
+secure-smtplib
